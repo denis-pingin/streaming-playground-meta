@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "streaming-playground-api": "https://github.com/denis-pingin/streaming-playground-api.git",
+    "streaming-playground-ui": "https://github.com/denis-pingin/streaming-playground-ui.git"
+  }
+}
